@@ -5,8 +5,9 @@
     <classes>
       <class name="com.selenium.PageobjectModel.ScreenShotExample">
         <methods>
-          <include name="captureScreenMethod"/>
           <include name="screenShot"/>
+          <include name="googleSearchTest"/>
+          <include name="beforMehtod"/>
         </methods>
       </class> <!-- com.selenium.PageobjectModel.ScreenShotExample -->
     </classes>

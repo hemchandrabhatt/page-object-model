@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite name="Suite1">
-  <test name="Test1">
+<suite name="Suite">
+  <test name="Test">
     <classes>
       <class name="com.selenium.PageobjectModel.TestMethod2"/>
-     
-    </classes>
-  </test> <!-- Test -->
-</suite> <!-- Suite -->
-
-<suite name="Suite2">
-  <test name="Test2">
-    <classes>
-      
       <class name="com.selenium.PageobjectModel.TestMethods1"/>
+      <class name="com.selenium.PageobjectModel.ScreenShotExample"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
